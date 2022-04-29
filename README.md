@@ -1,0 +1,2 @@
+# deteccao-de-fraude
+Você como gestor, tem a missão neste desafio de destronar a American Express do posto de melhor instituição no combate à fraude. Para tanto, você precisa propor uma solução para detecção e análise de fraudes que possam reduzir os riscos da empresa e garantir margens saudáveis. Lembre-se, que o resultado do seu trabalho dará ainda mais visibilidade para você e sua área. Seja criterioso, utilize bons argumentos, fatos e justificativas para sua proposta, bem como, claro, faça uma boa execução do seu projeto.
